@@ -1,5 +1,5 @@
-from distutils.command.config import config
-from typing import get_args
+#from distutils.command.config import config
+#from typing import get_args
 import discord
 import os
 from Client.Botclienserv import CustomBotClient
