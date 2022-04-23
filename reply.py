@@ -119,10 +119,11 @@ async def help(ctx):
     em.add_field(name="Moderation",value="Unban <member> [reason] ")
     em.add_field(name="Moderation",value="Unban <member> [reason]")
     em.add_field(name ="Achtung", value="Respect")
- 
+   
     
     await ctx.send(embed = em)
     
 
 bot.run(os.getenv("Token"))
 #bot.run("OTU5MTk2MTI4MDAyMzMwNzE1.YkYXAQ.iD8zIV58Dn7uqr_aYLy09ccUbKY")
+#Fichier Test

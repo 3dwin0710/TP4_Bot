@@ -50,8 +50,8 @@ async def kick(message, user : discord.User, *reason):
         await message.send(f"{user} a été exclu")
 
 
-
-client.run("OTU5MTk2MTI4MDAyMzMwNzE1.YkYXAQ.iD8zIV58Dn7uqr_aYLy09ccUbKY")
+# Je le met en commentaire pour eviter le partage du token.
+#client.run("OTU5MTk2MTI4MDAyMzMwNzE1.YkYXAQ.iD8zIV58Dn7uqr_aYLy09ccUbKY")
 
 
  
