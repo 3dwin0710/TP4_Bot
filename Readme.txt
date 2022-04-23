@@ -3,18 +3,18 @@ Bienvenue dans mon Tp4 de Python,
 Li Edwin classe 32
 
 
-1) Pour pouvoir activer le bot Python sur le serveur préciser , on run la partie main.py
+1) Pour pouvoir activer le bot Python sur le serveur précisé , on run la partie main.py
 et cela renvoie "Test_boty est prêt!" pour dire que mon bot est prêt
 
 2)
-J'ai inclus 2 types de fichiers :  Sans orienté qui constitue les test sur mon bot avec les commandes pour discord
-et avec orienté objet pour le Tp4 avec 2 essais sur le POO mais grâce à l'aide d'une site et des amis que j'ai pu eviter un problème qui a été problématique:
-Je pouvais pas executer plusieurs commandes sur Discord. 
+J'ai inclus 2 types de fichiers : Sans orienter qui constitue les tests sur mon bot avec les commandes pour discord
+et avec orienté objet pour le Tp4 avec 2 essais sur le POO mais grâce à l'aide d'un site et des amis que j'ai pu éviter un problème qui a été problématique:
+je pouvais pas exécuter plusieurs commandes sur Discord. 
 
 3)
-On utilise la partie du répertoire du client pour la partie serveur du partie Bot client et pour l'appeler dans le main.py
+On utilise la partie du répertoire du client pour la partie serveur du Parti bot client et pour l'appeler dans la main py
 
-4) Pour executer , avec un fichier config : ou il faudra remplir un token dans le ficher config
+4) Pour exécuter,avec un fichier config : où il faudra remplir un token dans le fichier config
 
 5)
 Les commandes avec mon Tp4 : 
@@ -24,7 +24,7 @@ Les commandes avec mon Tp4 :
 - !del => Supprimer les messages avec un range choisi tel que : !del 3
   Effacer les 3 messages précédentes
 
-6) J'ai fais que le début avec bot en CLI et un fichier .json mais j'ai pas pu faire la suite...
+6) J'ai faits que le début avec bot en CLI et un fichier .json mais je n'ai pas pu faire la suite....
 
 7) Sources : 
 - 1) Amis/Camarades
@@ -33,3 +33,6 @@ Les commandes avec mon Tp4 :
 
 
 
+Signed :  Li Edwin 
+
+23-04-2022 : 22:00
