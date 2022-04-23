@@ -80,3 +80,42 @@ class Docbot(discord.ext.commands.Cog, name='Docbot module'):
 
 
 #bot.run(os.getenv("Token"))
+
+'''
+1er Test
+import os
+#import discord
+from dotenv import load_dotenv
+import logging
+#from Logger.Logging import Logginclass
+from discord.ext import commands
+# 1er essai
+
+load_dotenv(dotenv_path="config")
+
+
+
+class DocBot(commands.Bot):
+    def __init__(self):
+        super().__init__(command_prefix="!")
+        
+    async def on_ready(self):
+        print(f"{self.user.display_name} est connecté au serveur.")
+        #logging.getLogger("Logger").info("{self.user.display_name} est connecté au serveur.")
+
+       
+
+    async def on_message(self,name ='Tennis'):
+        if name.content == "Tennis":
+             await name.channel.send("de Table")
+             #logging.getLogger("Logger").info("user send Tennis")
+             #logging.getLogger("Logger").info(" {bot.user.id} send de Table")
+             
+        
+    
+
+ 
+     
+doc_bot = DocBot()
+doc_bot.run(os.getenv("Token"))
+'''
