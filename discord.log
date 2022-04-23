@@ -40,3 +40,10 @@
 2022-04-23 23:10:18,033:INFO:discord.client: Cleaning up after 1 tasks.
 2022-04-23 23:10:18,037:INFO:discord.client: All tasks finished cancelling.
 2022-04-23 23:10:18,038:INFO:discord.client: Closing the event loop.
+2022-04-23 23:29:13,321:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-04-23 23:29:13,341:INFO:discord.client: logging in using static token
+2022-04-23 23:29:13,999:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-04-23 23:29:14,215:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-857x",{"micros":96428,"calls":["discord-sessions-blue-prd-2-148",{"micros":84173,"calls":["start_session",{"micros":46134,"calls":["discord-api-59dffdb7f6-zqxl7",{"micros":34561,"calls":["get_user",{"micros":6775},"add_authorized_ip",{"micros":1641},"get_guilds",{"micros":5965},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: 1c6a9c72476e5f9980e2705988a7c21b).
+2022-04-23 23:29:16,234:INFO:Logger: Test_boty est connecté au serveur.
+2022-04-23 23:29:16,234:WARNING:root: Test_boty est connecté au serveur.
+2022-04-23 23:29:16,234:INFO:root: Test_boty est connecté au serveur.
