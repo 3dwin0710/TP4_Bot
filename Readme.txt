@@ -32,6 +32,25 @@ Les commandes avec mon Tp4 :
 - 3) https://www.docstring.fr/blog/creer-un-bot-discord-avec-python
 
 
+Désolé Pour le retard, j'avais oublié de mettre à jour : 
+
+Qu’est-ce qu’un bot ?
+C'est une abbréviation du mot robot,est un logiciel intilligent conçu pour conserver avec son utilisateur.
+ou Un bot est un agent logiciel qui fonctionne sur Internet et effectue des tâches répétitives.
+sources :
+https://www.cloudflare.com/fr-fr/learning/bots/what-is-a-bot/
+https://www.journaldunet.fr/web-tech/guide-de-l-intelligence-artificielle/1501291-bot/
+
+
+Qu'est ce que le logging?
+
+Le logging est un terme siginifiant la gestion des logs.
+ À quoi servent les logs?
+ Les logs sont des journaux d’événements où sont collectés/enregistrés les événements relatifs à l’état d’un système.
+ Notamment donnée comme exemple dans le discord.log où va etre collecter/enregistrer les journaux d'événements.
+
+sources : 
+https://www.vaadata.com/blog/fr/logging-monitoring-definitions-et-bonnes-pratiques/
 
 Signed :  Li Edwin 
 
